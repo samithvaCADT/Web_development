@@ -1,3 +1,14 @@
 body{
-    background-color: gray;
+    font-family: Helvetica, Times, sans-serif;
+    font-size: 28px;
+}
+
+.fist-btn{
+    background-color: black;
+    color: white;
+    font-size: 28px;
+}
+
+.second-btn{
+    background-color: yellow;
 }
